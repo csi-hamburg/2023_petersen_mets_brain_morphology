@@ -1,1 +1,1 @@
-# 2023_petersen_mets_cortical_thickness
+This repository contains the analysis code for the manuscript ["A Latent Clinical-anatomical Dimension Relating Metabolic Syndrome to Brain Morphology - Evidence from a Multivariate Imaging Analysis of 40,087 Individuals"](https://pubmed.ncbi.nlm.nih.gov/36865285/).
