@@ -1,1 +1,1 @@
-This repository contains the analysis code for the manuscript ["A Latent Clinical-anatomical Dimension Relating Metabolic Syndrome to Brain Morphology - Evidence from a Multivariate Imaging Analysis of 40,087 Individuals"](https://pubmed.ncbi.nlm.nih.gov/36865285/).
+This repository contains the analysis code for the manuscript ["A Latent Clinical-anatomical Dimension Relating Metabolic Syndrome to Brain Morphology - Evidence from a Multivariate Imaging Analysis of 40,087 Individuals"](https://elifesciences.org/reviewed-preprints/93246/figures).
